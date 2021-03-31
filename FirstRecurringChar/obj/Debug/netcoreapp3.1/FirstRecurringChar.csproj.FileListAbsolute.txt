@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\bin\Debug\netcoreapp3.1\FirstRecurringChar.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\FirstRecurringChar\FirstRecurringChar\obj\Debug\netcoreapp3.1\FirstRecurringChar.genruntimeconfig.cache
